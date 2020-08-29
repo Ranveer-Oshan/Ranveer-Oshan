@@ -17,7 +17,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🌱 I’m currently learning Android development
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/ranveer-singh-156a70152/)
 
